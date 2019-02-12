@@ -2,6 +2,12 @@
 
 This repo has contains the list of tweaks I did to [VSCode](https://code.visualstudio.com/)
 
+## Set up
+
+After installation, launch VS Code. Now open the Command Palette (⇧⌘P) and type shell command to find the Shell Command: Install 'code' command in PATH command.
+
+![alt text](https://i.stack.imgur.com/m2v5w.png)
+
 ## Minimap
 
 By default, VSCode shows you `minimap`, to disable it, Click `View` Menu -> Select `Toggle Minimap`
