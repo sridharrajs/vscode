@@ -8,6 +8,12 @@ After installation, launch VS Code. Now open the Command Palette (⇧⌘P) and t
 
 ![alt text](https://i.stack.imgur.com/m2v5w.png)
 
+and add 
+
+    export PATH="$PATH:/Applications/Visual Studio Code.app/Contents/Resources/app/bin"
+   
+to your `~/.bash_profile`. If you're using Zsh, add this to your `~/.zshrc`
+
 ## Minimap
 
 By default, VSCode shows you `minimap`, to disable it, Click `View` Menu -> Select `Toggle Minimap`
