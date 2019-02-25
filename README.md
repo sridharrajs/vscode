@@ -24,3 +24,12 @@ When you open files(using control click/Side pane), VSCode will load the file on
 
 <img width="1328" alt="screenshot 2019-02-12 at 11 56 18 am" src="https://user-images.githubusercontent.com/1156953/52616131-7188d400-2ebd-11e9-9cfe-4d0d86338e33.png">
 
+## Configuring Keyboard shortcuts
+
+You can change keyboard shortcuts as per your wish by placing them on `keybinding.json`. To do so, go to `Code` -> `Preference` -> `Keyboard Shortcuts`  
+
+<img width="1680" alt="keyboard shortcuts" src="https://user-images.githubusercontent.com/1156953/53314184-0be80f00-38e3-11e9-954a-9ecd8b7612e0.png">
+
+
+Click on the `keybindings.json` and place [your shortcuts](https://github.com/sridharrajs/vscode/blob/master/keybindings.json) there.
+
