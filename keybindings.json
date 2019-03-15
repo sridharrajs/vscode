@@ -91,5 +91,33 @@
         "key": "alt+up",
         "command": "-editor.action.moveLinesUpAction",
         "when": "editorTextFocus && !editorReadonly"
+    },
+    { 
+        "key": "ctrl+shift+cmd+right", 
+        "command": "-editor.action.smartSelect.expand",
+        "when": "editorTextFocus" 
+    },
+    { 
+        "key": "alt+up", 
+        "command": "editor.action.smartSelect.expand",
+        "when": "editorTextFocus" 
+    },
+    { 
+        "key": "ctrl+shift+cmd+left",  
+        "command": "-editor.action.smartSelect.shrink",
+        "when": "editorTextFocus" 
+    },
+    { 
+        "key": "alt+down",  
+        "command": "editor.action.smartSelect.shrink",
+        "when": "editorTextFocus" 
+    },
+    { 
+        "key": "alt+cmd+t",
+        "command": "workbench.action.closeOtherEditors && isMac" 
+    },
+    { 
+        "key": "alt+ctrl+t",
+        "command": "workbench.action.closeOtherEditors && !isMac" 
     }
 ]
