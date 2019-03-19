@@ -20,4 +20,4 @@
 |Duplicate selection | `Ctrl/Command`+ D|
 |Move line down | `Ctrl/Command` + `Shift` + `down`|
 |Move line up | `Ctrl/Command`+ `Shift` + `Up`|
-|To close except current file|`Command` + `Option` + `T`|
+|To close except current file|`Command` + `Shift` + `T`|
