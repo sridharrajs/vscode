@@ -114,10 +114,16 @@
     },
     { 
         "key": "alt+cmd+t",
-        "command": "workbench.action.closeOtherEditors && isMac" 
+        "command": "-workbench.action.closeOtherEditors" 
     },
     { 
-        "key": "alt+ctrl+t",
-        "command": "workbench.action.closeOtherEditors && !isMac" 
+        "key": "shift+cmd+t",
+        "command": "workbench.action.closeOtherEditors",
+        "when": "isMac"
+    },
+    { 
+        "key": "shift+ctrl+t",
+        "command": "workbench.action.closeOtherEditors",
+        "when": "!isMac"
     }
 ]
