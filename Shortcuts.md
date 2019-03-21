@@ -15,9 +15,9 @@
 |Expand selection | `Alt/Meta` + `up`|
 |Shrink selection | `Alt/Meta` + `down`|
 |Toggle terminal | `Alt/Meta` + `f12`|
-|Format code | `Command/Ctrl` + `alt/meta` + L |
+|Format code | `Ctrl/Command` + `alt/meta` + L |
 |Toggle sidebar | `Ctrl/Command` + 1 |
 |Duplicate selection | `Ctrl/Command`+ D|
 |Move line down | `Ctrl/Command` + `Shift` + `down`|
 |Move line up | `Ctrl/Command`+ `Shift` + `Up`|
-|To close except current file|`Command` + `Shift` + `T`|
+|To close except current file|`Ctrl/Command` + `Shift` + `T`|
