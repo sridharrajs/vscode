@@ -21,3 +21,4 @@
 |Move line down | `Ctrl/Command` + `Shift` + `down`|
 |Move line up | `Ctrl/Command`+ `Shift` + `Up`|
 |To close except current file|`Ctrl/Command` + `Shift` + `T`|
+|List all Symbols(functions) within a file|`Ctrl/Command` + `R`|
