@@ -125,5 +125,19 @@
         "key": "shift+ctrl+t",
         "command": "workbench.action.closeOtherEditors",
         "when": "!isMac"
+    },
+    {
+        "key": "cmd+r",
+        "command": "workbench.action.gotoSymbol",
+        "when": "isMac"
+    },
+    {
+        "key": "ctrl+r",
+        "command": "workbench.action.gotoSymbol",
+        "when": "isMac"
+    },
+    {
+        "key": "shift+cmd+o",
+        "command": "-workbench.action.gotoSymbol"
     }
 ]
