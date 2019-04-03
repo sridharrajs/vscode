@@ -20,5 +20,5 @@
 |Duplicate selection | `Ctrl/Command`+ D|
 |Move line down | `Ctrl/Command` + `Shift` + `down`|
 |Move line up | `Ctrl/Command`+ `Shift` + `Up`|
-|To close except current file|`Ctrl/Command` + `Shift` + `T`|
+|To close except current file|`Alt/Meta` + `W`|
 |List all Symbols(functions) within a file|`Ctrl/Command` + `R`|
