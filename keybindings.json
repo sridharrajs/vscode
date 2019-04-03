@@ -117,14 +117,8 @@
         "command": "-workbench.action.closeOtherEditors" 
     },
     { 
-        "key": "shift+cmd+t",
-        "command": "workbench.action.closeOtherEditors",
-        "when": "isMac"
-    },
-    { 
-        "key": "shift+ctrl+t",
-        "command": "workbench.action.closeOtherEditors",
-        "when": "!isMac"
+        "key": "alt+w",
+        "command": "workbench.action.closeOtherEditors"
     },
     {
         "key": "cmd+r",
@@ -139,5 +133,25 @@
     {
         "key": "shift+cmd+o",
         "command": "-workbench.action.gotoSymbol"
+    },
+    {
+        "key": "alt+cmd+left",
+        "command": "editor.fold",
+        "when": "editorTextFocus"
+    },
+    {
+        "key": "alt+cmd+[",
+        "command": "-editor.fold",
+        "when": "editorTextFocus"
+    },
+    {
+        "key": "alt+cmd+right",
+        "command": "editor.unfold",
+        "when": "editorTextFocus"
+    },
+    {
+        "key": "alt+cmd+]",
+        "command": "-editor.unfold",
+        "when": "editorTextFocus"
     }
 ]
