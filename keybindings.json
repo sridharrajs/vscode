@@ -153,5 +153,9 @@
         "key": "alt+cmd+]",
         "command": "-editor.unfold",
         "when": "editorTextFocus"
+    },
+    {
+        "key": "alt+x",
+        "command": "workbench.action.splitEditorRight"
     }
 ]
