@@ -30,6 +30,11 @@ You can change keyboard shortcuts as per your wish by placing them on `keybindin
 
 <img width="1680" alt="keyboard shortcuts" src="https://user-images.githubusercontent.com/1156953/53314184-0be80f00-38e3-11e9-954a-9ecd8b7612e0.png">
 
-
 Click on the `keybindings.json` and place [your shortcuts](https://github.com/sridharrajs/vscode/blob/master/keybindings.json) there.
 
+## theme
+- [Material theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme) for icons.
+- [Webstorm darcula](https://github.com/sridharrajs/webstorm-darcula) for dark theme.
+
+## plugins
+- [Prettier - Code formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) for code formatting.
