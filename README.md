@@ -32,9 +32,15 @@ You can change keyboard shortcuts as per your wish by placing them on `keybindin
 
 Click on the `keybindings.json` and place [your shortcuts](https://github.com/sridharrajs/vscode/blob/master/keybindings.json) there.
 
-## theme
+## Theme
 - [Material theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme) for icons.
-- [Webstorm darcula](https://github.com/sridharrajs/webstorm-darcula) for dark theme.
+- [Webstorm darcula](https://marketplace.visualstudio.com/items?itemName=imekachi.webstorm-darcula) for dark theme.
+- [Peacock](https://marketplace.visualstudio.com/items?itemName=johnpapa.vscode-peacock)
 
-## plugins
-- [Prettier - Code formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) for code formatting.
+## Plugins
+- [Prettier - Code formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
+- [EditorConfig for VS Code](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig)
+- [Markmap](https://marketplace.visualstudio.com/items?itemName=gera2ld.markmap-vscode)
+- [Python](https://marketplace.visualstudio.com/items?itemName=ms-python.python)
+- [vscode-pdf](https://marketplace.visualstudio.com/items?itemName=tomoki1207.pdf)
+- [XML](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-xml)
